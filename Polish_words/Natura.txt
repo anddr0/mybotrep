@@ -1,0 +1,247 @@
+drzewo - дерево
+trawa - трава
+kwiat - квітка
+gwiazda - зірка
+księżyc - Місяць
+noc - ніч
+woda - вода
+świat - світ
+niebo - небо
+plaża - пляж
+słońce - сонце
+chmura - хмара
+rzeka - річка
+las - ліс
+jezioro - озеро
+góra - гора
+śnieg - сніг
+deszcz - дощ
+wiatr - вітер
+suchy - сухий
+oddychać - дихати
+ogień - вогонь
+człowiek - людина
+powietrze - повітря
+morze - море
+liść - листок
+roślina - рослина
+pustynia - пустеля
+wieś - село
+ocean - океан
+głęboki - глибокий
+mokry - мокрий
+ciepły - теплий
+dziura - діра, яма
+głębokość - глибина
+cień - тінь
+dżungla - джунглі
+ciemno - темно
+pełnia księżyca - повний місяць, повня
+fala - хвиля
+wodospad - водоспад
+biologia - біологія
+owad - комаха
+światło - світло
+wyspa - острів
+piasek - пісок
+ścieżka - стежка
+tęcza - веселка
+ziemia - земля
+Ziemia - Земля
+mgła - туман
+wulkan - вулкан
+lawina - лавина
+błyskawica - блискавка
+burza - буря
+lód - лід
+jaskinia - печера
+huragan - ураган
+kopalnia - шахта
+pora roku - пора року
+rzadki - рідкісний
+atmosfera - атмосфера
+skała - скеля
+płytki - мілкий
+mróz - мороз
+środowisko - середовище
+naturalny - природний
+świecić - світити
+egzotyczny - екзотичний
+pogoda - погода
+gen - ген
+pożar - пожежа
+biolog - біолог
+widok - вигляд
+natura - природа
+przyroda - природа
+ciemność - темрява
+cień - тінь
+patyk - палиця
+kropla - крапля
+dym - дим
+świecić - світити
+równina - рівнина
+wzgórze - узгір'я
+łąka - луг
+susza - засуха
+lawa - лава
+świt - світанок
+wschód słońca - схід сонця
+zachód słońca - захід сонця
+epoka lodowcowa - льодовиковий період
+rozmnażać się - розмножуватись
+klonowanie - клонування
+grawitacja - тяжіння
+szczyt - вершина
+wierzchołek - вершина
+krater - кратер
+wysokość nad poziomem morza - висота над рівнем моря
+staw - ставок
+źródło - витік, джерело
+słona woda - солона вода
+płatek śniegu - сніжинка
+przymrozek - приморозок
+upał - спека
+ciepło - тепло́
+tornado - торнадо
+region - регіон
+podziemny - підземний
+las deszczowy - дощовий ліс
+globalne ocieplenie - глобальне потепління
+efekt cieplarniany - парниковий ефект
+wdychać - вдихати
+ekologia - екологія
+ekolog - еколог
+ekologiczny - екологічний
+równowaga - рівновага
+rasa - раса
+w cieniu - в тіні
+w słońcu - на сонці
+malowniczy - мальовничий
+kwiaciarnia - квітковий магазин
+nasiono - насіння
+gnić - гнити
+źródło energii - джерело енергії
+energia słoneczna - сонячна енергія
+cykl - цикл
+atom - атом
+rozmnażanie - розмноження
+przestrzeń - простір
+bezludny - безлюдний
+trawnik - газон
+powrót do natury - повернення до природи
+krajobraz - краєвид
+horyzont - горизонт
+rzeczywistość - реальність
+klimat - клімат
+klimatyczny - кліматичний
+dno - дно
+płomień - полум'я
+błoto - болото
+grzmot - грім
+ssak - ссавець
+dolina - долина
+wybuch wulkanu - виверження вулкану
+przeprowadzić eksperyment - провести експеримент
+zmierzch - смеркання
+wschodzić - сходити
+ściemniać się - темніти
+męskość - мужність
+długość życia - тривалість життя
+klonować - клонувати
+kontemplować - споглядати
+Gwiazda Polarna - Полярна зоря
+gwiaździsty - зоряний
+zaćmienie - затемнення
+cieśnina - протока
+lodowiec - льодовик
+wąwóz - ущелина
+przepaść - провалля
+płaskowyż - плоскогір'я
+pochyły - похилий
+stromy - крутий
+wybrzeże - узбережжя
+rafa - риф
+brzeg rzeki - берег ріки
+strumyk - струмок
+płynąć - плисти, спливати
+morski - морський
+skalisty - скелястий
+piaszczysty - піщаний
+błotnisty - болотистий
+przejrzysty - прозорий
+pustynny - пустельний
+kropla deszczu - крапля дощу
+przelotny deszcz - прохідний дощ
+zaspa śnieżna - сніговий замет
+grad - град
+szron - іній
+topnieć - танути
+wilgotny - вологий
+oblodzony - обледенілий
+rozpogadzać się - розпогоджуватись
+ciśnienie atmosferyczne - атмосферний тиск
+wylewać - розливатись
+rzadki gatunek - рідкісний вид
+ekosystem - екосистема
+ścinać drzewo - зрубувати дерево
+kwaśny deszcz - кислотний дощ
+zużywać - використовувати
+wysychać - висихати
+trujący - отруйний
+osuszać - осушувати
+grzmieć - гриміти
+egzotyzm - екзотика
+deficyt - дефіцит
+gleba - ґрунт
+drwal - лісоруб
+gnicie - гниття
+mięsożerny - м'ясоїдний
+zbierać pyłek - збирати пилок
+stopiony - плавлений
+zapadać się - осуватися
+promieniowanie - випромінювання
+promieniować - випромінювати
+cykliczny - циклічний
+stok - схил
+dziedziczność - спадковість
+erozja - ерозія
+botanika - ботаніка
+fotosynteza - фотосинтез
+skład - склад
+obszar - територія, галузь
+teren - територія, зона
+energia jądrowa - ядерна енергія
+blask - блиск
+szpiczasty - пікоподібний
+zacieniony - затінений
+pył - прах
+pień - стовбур, пень
+kałuża - калюжа
+trzęsienie ziemi - землетрус
+płatek - пелюстка
+szyszka - шишка
+nieważkość - невагомість
+spadająca gwiazda - зірка, що падає
+półwysep - півострів
+pagórkowaty - горбистий
+odpływ - відплив
+zatoka - затока
+przybrzeżny - прибережний
+rosa - роса
+mżawka - мжичка
+wietrzyk - вітерець
+powiew wiatru - повів вітру, порив вітру
+poryw wiatru - повів вітру, порив вітру
+trąba powietrzna - вихор
+wybuchać - вибухати
+rzadko spotykany - який рідко зустрічається
+dwutlenek węgla - діоксид вуглецю, вуглекислий газ
+krążenie - кровообіг
+nawóz organiczny - органічне добриво
+krzyżowanie - схрещування, схрещування видів
+kopalnia węgla - вугільна шахта
+dziedziczny - спадковий
+zasoby naturalne - природні ресурси
+copyright: Всі права захищені
+e-mail: contact@easy-polish.com
